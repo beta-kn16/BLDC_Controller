@@ -15746,7 +15746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_TopBottom"
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 194.31 39.37 0)
 			(effects
 				(font
@@ -18855,7 +18855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 76.2 232.41 0)
 			(effects
 				(font
@@ -19258,7 +19258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_TopBottom"
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 196.85 34.29 0)
 			(effects
 				(font
@@ -21855,7 +21855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_TopBottom"
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 194.31 29.21 0)
 			(effects
 				(font
@@ -22326,7 +22326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 63.5 232.41 0)
 			(effects
 				(font
@@ -22673,7 +22673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 101.6 232.41 0)
 			(effects
 				(font
@@ -24397,7 +24397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 88.9 232.41 0)
 			(effects
 				(font
